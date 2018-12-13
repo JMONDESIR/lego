@@ -1,0 +1,32 @@
+{
+  "legos": [
+    {
+      "creatorName": "bt2rwhv",
+      "legoName": "vh635",
+      "legoColor": "ch56",
+      "legoShape": "hv635",
+      "id": 1
+    },
+    {
+      "creatorName": "Joel",
+      "legoName": "Helmet",
+      "legoColor": "Black",
+      "legoShape": "square",
+      "id": 2
+    },
+    {
+      "creatorName": "joel",
+      "legoName": "Helmut",
+      "legoColor": "gray",
+      "legoShape": "circle",
+      "id": 3
+    },
+    {
+      "creatorName": "joel",
+      "legoName": "Helmut",
+      "legoColor": "gray",
+      "legoShape": "circle",
+      "id": 4
+    }
+  ]
+}
